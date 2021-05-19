@@ -5024,9 +5024,9 @@
     "restore": {
       "projectUniqueName": "Amazon Dipping",
       "projectName": "Amazon Dipping",
-      "projectPath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\Amazon Dipping\\.local",
+      "projectPath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\UiPath\\Amazon Dipping\\.local",
       "packagesPath": "C:\\Users\\CHARAN CS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\Amazon Dipping\\.local"
+      "outputPath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\UiPath\\Amazon Dipping\\.local"
     },
     "frameworks": {
       "net461": {

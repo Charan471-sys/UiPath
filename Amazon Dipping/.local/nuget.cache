@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BbJyf2KdghckrcPBu1EIw+Vr1CLDdXsWLTLmgN6xG2t/No+iVCgRKyt2jUoPOryE/29a9Be/MTxEvVVKPUkOTw==",
+  "dgSpecHash": "H5PbgR+/wWLwy+LiVCBr+4h7R7M6munC7h6YF8Hr3XmCaK0U2qAeAmNx44X0Kq6RySXLyVXdGp91sfgYNACwCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\Amazon Dipping\\.local\\",
+  "projectFilePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\UiPath\\Amazon Dipping\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\CHARAN CS\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\CHARAN CS\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -75,7 +75,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\Amazon Dipping\\.local",
+      "filePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\UiPath\\Amazon Dipping\\.local",
       "message": "System.IO.Pipelines 4.7.1 depends on System.Buffers (>= 4.5.0) but System.Buffers 4.5.0 was not found. An approximate best match of System.Buffers 4.5.1 was resolved.",
       "libraryId": "System.Buffers",
       "targetGraphs": [
@@ -87,7 +87,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\Amazon Dipping\\.local",
+      "filePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\UiPath\\Amazon Dipping\\.local",
       "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.4 was resolved.",
       "libraryId": "System.Memory",
       "targetGraphs": [
@@ -99,7 +99,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\Amazon Dipping\\.local",
+      "filePath": "C:\\Users\\CHARAN CS\\Documents\\UiPath\\UiPath\\Amazon Dipping\\.local",
       "message": "System.IO.Pipelines 4.7.1 depends on System.Memory (>= 4.5.3) but System.Memory 4.5.3 was not found. An approximate best match of System.Memory 4.5.4 was resolved.",
       "libraryId": "System.Memory",
       "targetGraphs": [
